@@ -113,10 +113,11 @@ Me chamo Renan, tenho 19 anos e sou natural de Araraquara, interior de São Paul
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Coding&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=exercicio_peixe, exercicio_passarinho, exercicio_alien" 
-  />
+   align="left" 
+   alt="GitHub Stats" 
+   height="200" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Coding&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=exercicio_peixe,exercicio_passarinho,exercicio_alien" 
+/>
+
 
 </p>
