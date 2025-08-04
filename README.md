@@ -2,7 +2,7 @@
 
 **`Estudante Engenharia de Software`**
 
-Me chamo Renan, tenho 19 anos e sou natural de Araraquara, interior de São Paulo. Atualmente, estou cursando Engenharia de Sofware no Inteli. Desde cedo, fui fascinado pela forma como a tecnologia influencia o nosso mundo. Agora, estou focado em transformar essa paixão em uma carreira de sucesso. Estou animado com as possibilidades que o futuro me reserva e determinado a fazer a diferença no mundo.
+Me chamo Renan, tenho 20 anos e sou natural de Araraquara, interior de São Paulo. Atualmente, estou cursando Engenharia de Sofware no Inteli. Desde cedo, fui fascinado pela forma como a tecnologia influencia o nosso mundo. Agora, estou focado em transformar essa paixão em uma carreira de sucesso. Estou animado com as possibilidades que o futuro me reserva e determinado a fazer a diferença no mundo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/renan-reis-483a10289/" target="_blank">
